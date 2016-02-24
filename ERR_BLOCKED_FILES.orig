@@ -1,0 +1,43 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"> 
+<html>
+<head>
+ <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+ <title>ERROR: The requested URL could not be retrieved</title>
+ <style type="text/css">
+    <!--
+        body           { background-color:#FAFAFA;
+                         margin-left:0px;
+                         margin-right:0px;
+                         margin-top:0px;
+                         margin-bottom:0px; }
+        div.boxa       { padding:10px;
+                         border:2px solid #FFD090;
+                         margin:5px;
+                         background:#FFF4B4;
+                         width:600;
+                         text-align:left; }
+        div.boxb       { padding:30px;
+                         border:1px solid #0000FF;
+                         margin:5px;
+                         background:#FFF4B4;
+                         width:800;
+                         text-align:left; }
+        .texta         { font-weight:normal;
+                         font-family:Verdana, Arial;
+                         font-size:8pt; 
+                         text-align:justify;}
+    -->
+ </style>
+</head>
+<body>
+ <div class="boxa">
+ <h1>ERROR</h1>
+ <h2>The requested URL could not be retrieved</h2>
+ </div> <hr>  <div id="content">
+ <p>The following error was encountered while trying to retrieve the URL: <a href="%U">%U</a></p>  <blockquote id="error">
+ <p><b>Affe TTI, Inc. Policy violated. You're not allowd to download this type of content.</b></p> </blockquote>
+  <p>Access control configuration prevents your request from being allowed at this time. Please contact your service provider if you feel this is incorrect.</p>
+  <p>Your cache administrator is <a href="mailto:%w%W">%w</a>.</p> <br> </div>  <hr> <div id="footer">
+ <p>Generated %T by %h (%s)</p> <!-- %c --> </div> 
+</body>
+</html> 
